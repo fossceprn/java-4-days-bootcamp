@@ -158,43 +158,47 @@ Create three child classes:
 
 ## 📅 DAY 3 & DAY 4 – PROJECT DEVELOPMENT
 
-### 🚀 Project Title: [Your Project Name]
 
-**📝 Project Problem Statement:**
+# 🚀 Java Swing Calculator
 
-[Add the complete project question or problem statement provided during the boot camp.]
+## 📝 Project Problem Statement
 
-### 📌 Project Description
+Develop a calculator application using Java Swing that allows users to perform basic arithmetic operations through a graphical user interface.
 
-[Briefly describe the project, its purpose, the problem it solves, and how it works.]
+## 📌 Project Description
 
-### ✨ Key Features
+This project is a graphical calculator developed using Java Swing in Eclipse IDE. It provides a user-friendly interface with number buttons and arithmetic operation buttons. Users can perform calculations by clicking the buttons, and the results are displayed on the screen.
 
-- [Mention the first major feature.]
-- [Mention the second major feature.]
-- [Mention the third major feature.]
-- [Mention any additional functionality.]
+## ✨ Key Features
 
-### 🛠️ Technologies Used
+- Addition, subtraction, multiplication and division.
+- Percentage calculation.
+- Positive and negative number conversion.
+- Decimal number support.
+- Clear (AC) functionality.
+- Error handling for division by zero.
+- User-friendly graphical interface.
+
+## 🛠️ Technologies Used
 
 - **Programming Language:** Java
-- **IDE:** Eclipse
-- **Concepts:** Object-Oriented Programming
-- **Additional Technologies:** [If applicable]
+- **IDE:** Eclipse IDE
+- **GUI Framework:** Java Swing
+- **Concepts:** Object-Oriented Programming, Event Handling, Arrays, Loops and Conditional Statements.
 
 ---
 
-👩‍💻 STUDENT INFORMATION
+## 👩‍💻 STUDENT INFORMATION
 
-Name: Your Full Name
+Name: ADHIN C SABU
 
-Class / Year: Your Class and Year
+Class / Year:CSE A/ 3RD YEAR
 
-Department: Your Department
+Department: COMPUTER SCIENCE
 
-College: Your College Name
+College:PERUMON COLLEGE OF ENGINEERING
 
-GitHub Profile: Your GitHub Username
+GitHub Profile:adhin12371
 
 LinkedIn Profile: Your LinkedIn Profile
 
